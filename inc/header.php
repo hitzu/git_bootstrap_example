@@ -8,7 +8,7 @@
 
 			<!-- creamos un menu con la documentacion de: https://getbootstrap.com/components/ en pills-->
 			<div class="col-xs-9">
-				<ul id="main-nenu" class="nav nav-pills">
+				<ul id="main-menu" class="nav nav-pills">
 					<li class="active"><a href="index.php">INICIO</a></li>
 					<li class="dropdown">
 					    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
