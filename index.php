@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
 	<?php include 'inc/head_common.php'; ?>
+	<link href='css/workshops.css' rel='stylesheet' type='text/css'>
 	<title>Workshops con Bootstrap</title>
 </head>
 <body>
@@ -31,8 +32,8 @@
 				</div>
 			</div>
 		</article>
-		<div class="container">
-			<article id="w2" class="workshop workshop-right">
+		<article id="w2" class="workshop workshop-right">
+			<div class="container">
 				<div class="row">
 						<div class="col-xs-3 date-info">
 							<h3 class="highlighted"><strong>W38</strong></h3>
@@ -51,8 +52,8 @@
 						
 						</div>
 				</div>
-			</article>
-		</div>
+			</div>
+		</article>
 	</div>
 
 	<?php include 'inc/footer.php'; ?>
