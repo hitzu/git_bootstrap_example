@@ -9,7 +9,7 @@
 	<?php include 'inc/header.php'; ?>
 	
 	<div id="workshop-list">
-		<article id="w1" class="workshop-left">
+		<article id="w1" class="workshop workshop-left">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-8 main-info">
@@ -32,7 +32,7 @@
 			</div>
 		</article>
 		<div class="container">
-			<article id="w2" class="workshop-right">
+			<article id="w2" class="workshop workshop-right">
 				<div class="row">
 						<div class="col-xs-3 date-info">
 							<h3 class="highlighted"><strong>W38</strong></h3>
