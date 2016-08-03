@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
 	<?php include 'inc/head_common.php'; ?>
+	<link href='css/detail.css' rel='stylesheet' type='text/css'>
 	<title>Workshops con Bootstrap</title>
 </head>
 <body>
@@ -66,7 +67,14 @@
 						</h3>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium fuga nulla deserunt necessitatibus sint cum maiores ut temporibus in corrupti.</p>
 						<div id="registration-badge">
-							
+							<h3 class="price">990 Pesos</h3>
+							<p class="included">
+								workshop + <br>
+								desayuno + <br>
+								almuerzo
+							</p>
+							<div class="clearfix"></div>
+							<a href="" class="do-register">ME APUNTO!</a>
 						</div>
 					</section>
 					<section id="agenda">

@@ -13,7 +13,7 @@
 		<article id="w1" class="workshop workshop-left">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-8 main-info">
+					<div class="col-xs-6 main-info">
 						<h2>
 							Desarrolla front-end like a boss
 						</h2>
@@ -24,7 +24,7 @@
 						<a href="detail.php" class="more-info-link">Quiero más información</a>
 					
 					</div>
-					<div class="col-xs-3 col-xs-offset-1 date-info">
+					<div class="col-xs-4 col-xs-offset-2 date-info">
 						<h3 class="highlighted"><strong>W21</strong></h3>
 						<h3 class="highlighted">20 plazas</h3>
 						<h3 class="highlighted">99 E</h3>
@@ -35,12 +35,12 @@
 		<article id="w2" class="workshop workshop-right">
 			<div class="container">
 				<div class="row">
-						<div class="col-xs-3 date-info">
+						<div class="col-xs-4 date-info">
 							<h3 class="highlighted"><strong>W38</strong></h3>
 							<h3 class="highlighted">15 plazas</h3>
 							<h3 class="highlighted">120 E</h3>
 						</div>
-						<div class="col-xs-8 col-xs-offset-1 main-info">
+						<div class="col-xs-6 col-xs-offset-2 main-info">
 							<h2>
 								Desarrolla Aplicaciones multiplataforma con AIR
 							</h2>
